@@ -1,2 +1,6 @@
 Step 1 : Order the pizza
 Step 2 : Wait for the delivery
+Step 3 : Order was misplaced and needs to be changed
+Step 4 : Delete previous Order
+Step 5 : Create new pizza Order
+Step 6 : Wait for the delivery
